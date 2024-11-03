@@ -1,18 +1,5 @@
-
-<div><img width="120px" src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/printing.jpeg?raw=true"><div>
-
-.div {
-  width:200px;
-  height:100px;
-  overflow:hidden;
-}
-.div img {
-  width:100%;
-  height:100%;
-  transform: scale(1.5);
-}
-
 # Introduction to the Self-service Printing and Copying Machine
+<img width="120px" src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/printing.jpeg?raw=true">
 
 ##  overview information
 
