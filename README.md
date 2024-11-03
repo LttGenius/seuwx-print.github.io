@@ -1,5 +1,5 @@
 
-<div><img width="120px" src="https://github.com/LttGenius/seuwx-print.github.io/tree/main/images/printing.jpeg?raw=true"><div>
+<div><img width="120px" src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/printing.jpeg?raw=true"><div>
 
 .div {
   width:200px;
