@@ -2,10 +2,10 @@
 sort: 2
 ---
 
-# [主页](https://dase314.github.io/)
+# Problem and Solutions
 
-```
-{% raw %}{% include list.liquid all=true %}{% endraw %}
-```
+------
+
+## **4** **Remove paper**
 
 {% include list.liquid all=true %}
