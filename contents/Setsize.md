@@ -1,7 +1,7 @@
 ---
 sort: 6
 ---
-## **9** **Set paper size**
+## **Set paper size**
 - [ ]	*Automatic Paper Size Detection:*
 When placing paper in the tray, the device will automatically detect the paper size. If the displayed size does not match the actual or when "△----" is shown on the display, it indicates that the device has failed to correctly detect the paper size. Press the [User Functions] - [Users] -> [Paper Tray Settings] key on the main screen to change it, then select the desired paper tray on the screen.
 - [ ]	*Setting Non-standard Paper Sizes:*

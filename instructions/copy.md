@@ -1,9 +1,9 @@
 ---
 sort: 2
 ---
-## **2** **Copying**
+## **Copying**
 
-### **2.1** **normal copying**
+### **normal copying**
 
 1. Place the original document on the glass panel or into the document feeder.
 <div align=center><img src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/mobile_device_6.png?raw=true"></div>

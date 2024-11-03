@@ -1,7 +1,7 @@
 ---
 sort: 8
 ---
-## **11** **Turn on the machine**
+## **Turn on the machine**
 - [ ] When the main power light on the control panel (green) is not lit:
     - Turn on the device's power.
     - The location of the main power switch varies with different models.

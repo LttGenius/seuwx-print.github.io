@@ -1,7 +1,7 @@
 ---
 sort: 7
 ---
-## **10** **Set paper type**
+## **Set paper type**
 - [ ]	Press [User Function - User 1] on the main screen menu.
 - [ ]	Press [User]>[Paper Tray Setting].
 - [ ]	Press [Media Type].(See Figure 3)

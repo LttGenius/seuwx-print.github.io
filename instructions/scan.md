@@ -1,9 +1,9 @@
 ---
 sort: 1
 ---
-## **3** **Scan**
+## **Scan**
 
-### **3.1** **Composite**
+### **Composite**
 1. Scan the QR code to login
 <div align=center><img src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/mobile_device_9.png?raw=true"></div>
 

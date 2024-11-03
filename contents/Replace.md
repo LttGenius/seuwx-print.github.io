@@ -1,7 +1,7 @@
 ---
 sort: 9
 ---
-## **12** **Replace toner cartridge**
+## **Replace toner cartridge**
 - [ ] Open the front cover of the device.
 - [ ] Take out the toner cartridge you want to replace with a different color.
 - [ ] Shake the new toner cartridge well to loosen the toner inside.

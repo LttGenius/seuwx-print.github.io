@@ -1,7 +1,7 @@
 ---
 sort: 5
 ---
-## **8** **Place the paper tray**
+## **Place the paper tray**
 - [ ]	Gently pull out the paper tray.
 - [ ]	Adjust the side guides to match the width of the paper.
 - [ ]	Fully open the paper and place it face up in the tray.

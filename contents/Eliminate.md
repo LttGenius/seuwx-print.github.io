@@ -1,11 +1,11 @@
 ---
 sort: 3
 ---
-## **6** **Eliminate print job errors**
+## **Eliminate print job errors**
 
-### **6.1** **Problem description**
+### **Problem description**
 When printing on a computer, if the specified paper is not placed in the paper tray, the print job will fail, and [print status] will be displayed as an error.
-### **6.2** **Corrective measures**
+### **Corrective measures**
 - [ ] Print using another paper source
    - a) Press the [Job Status] key on the control panel.
    - b) Place the paper specified by the computer in the paper feed tray, then press [Start], then perform printing.

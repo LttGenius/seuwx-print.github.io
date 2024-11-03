@@ -1,7 +1,7 @@
 ---
 sort: 1
 ---
-## **4** **Reasons for paper jams**
+## **Reasons for paper jams**
 
 - [ ]	An incorrect original was placed on the automatic document feeder.
 - [ ]	Paper that does not match this machine has been used.

@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-## **5** **Remove paper**
+## **Remove paper**
 
 - [ ] When the original or copy paper is jammed, stop operation and check the location of the paper jam indicated on the touch panel.
 - [ ] Follow the instructions on the touch panel to remove the paper. Press either or to turn the page.
