@@ -1,4 +1,4 @@
-# Introduction to the Self-service Printing and Copying Machine
+# Introduction to the Self-service Printing and Copying Machine<img src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/seulogo.png?raw=true">
 <div align=center><img src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/printing.jpeg?raw=true"></div>
 
 ##  overview information
