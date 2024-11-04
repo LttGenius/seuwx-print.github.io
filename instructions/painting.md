@@ -17,7 +17,7 @@ sort: 1
 1. Click the add file and choose the file. Then, choose the parameters about this painting. Finally, click the submission and start the painting.
 <div align=center><img src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/mobile_device_3.jpg?raw=true"></div>
 
-### **1.2** **Web**
+### **Web**
 1. Visit its official website (https://tca.toshiba-tec.com.cn/cloudprint/view/pc/login.php). Fill the information and click the login button.
 <div align=center><img src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/mobile_device_4.png?raw=true"></div>
    

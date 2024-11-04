@@ -11,7 +11,7 @@ sort: 1
 3. Place the original document.
 4. Pay for the scan 
 
-### **3.2** **Mobile device**
+### **Mobile device**
 1. Login on the mobile device
 <div align=center><img src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/mobile_device_10.png?raw=true"></div>
 

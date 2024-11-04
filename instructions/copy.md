@@ -18,7 +18,7 @@ sort: 2
 2. Place the original piece on the glass panel
 3. Start the reprint output
 
-### **2.3** **Document Photocopying**
+### **Document Photocopying**
 1. Select reprint parameters
 <div align=center><img src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/mobile_device_8.png?raw=true"></div>
 
