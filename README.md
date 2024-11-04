@@ -1,4 +1,4 @@
-# Introduction to the Self-service Printing and Copying Machine<img width="120px" src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/seulogo.png?raw=true">
+# Introduction to the Self-service Printing and Copying Machine at SEU Wuxi Campus<img width="120px" src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/seulogo.png?raw=true">
 <div align=center><img src="https://github.com/LttGenius/seuwx-print.github.io/blob/main/images/printing.jpeg?raw=true"></div>
 
 ##  overview information
